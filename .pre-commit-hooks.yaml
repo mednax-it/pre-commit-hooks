@@ -2,6 +2,6 @@
     description: ensure there is a primary and secondary 
     name: enforce primary / secondary  
     entry: enforce-primary-secondary 
-    language: ruby
+    language: python
     types: [text]
     stages: [commit, push, manual]
